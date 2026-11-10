@@ -1,0 +1,7 @@
+{
+  "name": "Zaytun Cafe - Sharq Taomlari",
+  "description": "Zaytun Cafe (Uzgen) - Online taom buyurtma qilish va yetkazib berish xizmati. Кыргызча, O'zbekcha, Русский, English tillarida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
